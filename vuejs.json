@@ -1,0 +1,13 @@
+{
+ "ConectionString": "localhost:9080",
+ "SuperAdmin": "admin@gmail.com",
+ "Password": "password",
+ "Protocol": "http",
+ "Domain": "localhost",
+ "AppName": "Vuejs Application",
+ "Minify": false,
+ "VueCodeFolder": "vue",
+ "VueCompiledFolder": "assets",
+ "VueCompiledExtension": ".vue.js",
+ "ServerPort": "90"
+}

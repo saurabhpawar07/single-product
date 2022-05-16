@@ -1,0 +1,34 @@
+{
+    Logo : {
+        type : image,
+        value : "",
+    },
+    LogoWide : {
+        type : image,
+        value : "",
+    },
+    Tagline : {
+        type : string,
+        value : "",
+    },
+    Description : {
+        type : string,
+        value : "",
+    },
+    ThemeColor : {
+        type : color,
+        value : "#000000",
+    },
+    ThemeTextColor : {
+        type : color,
+        value : "#ffffff",
+    },
+    SecondThemeColor : {
+        type : color,
+        value : "#000000",
+    },
+    SecondTextColor : {
+        type : color,
+        value : "#ffffff",
+    }
+}

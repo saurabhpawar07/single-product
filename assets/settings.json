@@ -1,0 +1,372 @@
+{
+    "ThemeColor" : {
+        "title" : "Theme Color",
+        "value" : "#fe696a",
+        "type" : "color"
+    },
+    "DarkThemeColor" : {
+        "title" : "Dark Theme Color",
+        "value" : "#fe3638",
+        "type" : "color"
+    },
+    "SearchByLocation" : {
+        "title" : "Search By Location",
+        "value" : true,
+        "type" : "checkbox"
+    },
+    "TopNotificationBar" : {
+        "title": "Top Notification Bar",
+        "value" : [
+            {
+                "note" : {
+                    "title" : "Note",
+                    "value" : "Free shipping for order over $200",
+                    "type" : "text"
+                },
+                "link" : {
+                    "title" : "Link",
+                    "value" : "#",
+                    "type" : "text"
+                }
+            },
+            {
+                "note" : {
+                    "title" : "Note",
+                    "value" : "We return money within 30 days",
+                    "type" : "text"
+                },
+                "link" : {
+                    "title" : "Link",
+                    "value" : "#",
+                    "type" : "text"
+                }
+            },
+            {
+                "note" : {
+                    "title" : "Note",
+                    "value" : "Friendly 24/7 customer support",
+                    "type" : "text"
+                },
+                "link" : {
+                    "title" : "Link",
+                    "value" : "#",
+                    "type" : "text"
+                }
+            },
+            {
+                "note" : {
+                    "title" : "Note",
+                    "value" : "Free shipping for order over $200",
+                    "type" : "text"
+                },
+                "link" : {
+                    "title" : "Link",
+                    "value" : "#",
+                    "type" : "text"
+                }
+            }
+        ],
+        "template" : {
+            "note" : {
+                "title" : "Note",
+                "value" : "New top bar notification",
+                "type" : "text"
+            },
+            "link" : {
+                "title" : "Link",
+                "value" : "#",
+                "type" : "text"
+            }
+        },
+        "type" : "array"
+    },
+    "Heroslider" : {
+        "title": "Hero slider",
+        "value" : [
+            {
+				"Backgroundcolor" : {
+					"title" : "Background Color",
+					"value" : "#f5b1b0",
+					"type" : "color"
+				},
+				"Image" : {
+					"title" : "Image",
+					"value" : "https://cartzilla.createx.studio/img/home/hero-slider/02.jpg",
+					"type" : "image"
+				},
+				"Pretext" : {
+					"title" : "Pre Text",
+					"value" : "Hurry up! Limited time offer.",
+					"type" : "text"
+				},
+				"Title" : {
+					"title" : "Title",
+					"value" : "Women Sportswear Sale",
+					"type" : "text"
+				},
+				"Description" : {
+					"title" : "Description",
+					"value" : "Sneakers, Keds, Sweatshirts, Hoodies &amp; much more...",
+					"type" : "text"
+				},
+				"Link" : {
+					"title" : "Link",
+					"value" : "/shop/Apparels/Womens_Apparels",
+					"type" : "text"
+				}
+			},
+            {
+				"Backgroundcolor" : {
+					"title" : "Background Color",
+					"value" : "#eba170",
+					"type" : "color"
+				},
+				"Image" : {
+					"title" : "Image",
+					"value" : "https://cartzilla.createx.studio/img/home/hero-slider/03.jpg",
+					"type" : "image"
+				},
+				"Pretext" : {
+					"title" : "Pre Text",
+					"value" : "Complete your look with",
+					"type" : "text"
+				},
+				"Title" : {
+					"title" : "Title",
+					"value" : "New Men's Accessories",
+					"type" : "text"
+				},
+				"Description" : {
+					"title" : "Description",
+					"value" : "Hats &amp; Caps, Sunglasses, Bags &amp; much more...",
+					"type" : "text"
+				},
+				"Link" : {
+					"title" : "Link",
+					"value" : "/shop/Apparels/Man",
+					"type" : "text"
+				}
+			},
+            {
+				"Backgroundcolor" : {
+					"title" : "Background Color",
+					"value" : "#3aafd2",
+					"type" : "color"
+				},
+				"Image" : {
+					"title" : "Image",
+					"value" : "https://cartzilla.createx.studio/img/home/hero-slider/01.jpg",
+					"type" : "image"
+				},
+				"Pretext" : {
+					"title" : "Pre Text",
+					"value" : "Has just arrived!",
+					"type" : "text"
+				},
+				"Title" : {
+					"title" : "Title",
+					"value" : "Huge Summer Collection",
+					"type" : "text"
+				},
+				"Description" : {
+					"title" : "Description",
+					"value" : "Swimwear, Tops, Shorts, Sunglasses &amp; much more...",
+					"type" : "text"
+				},
+				"Link" : {
+					"title" : "Link",
+					"value" : "/shop",
+					"type" : "text"
+				}
+			}
+        ],
+        "template" : {
+            "Backgroundcolor" : {
+                "title" : "Background Color",
+                "value" : "#f5b1b0",
+                "type" : "color"
+            },
+            "Image" : {
+                "title" : "Image",
+                "value" : "https://cartzilla.createx.studio/img/home/hero-slider/02.jpg",
+                "type" : "image"
+            },
+            "Pretext" : {
+                "title" : "Pre Text",
+                "value" : "Hurry up! Limited time offer.",
+                "type" : "text"
+            },
+            "Title" : {
+                "title" : "Title",
+                "value" : "Women Sportswear Sale",
+                "type" : "text"
+            },
+            "Description" : {
+                "title" : "Description",
+                "value" : "Sneakers, Keds, Sweatshirts, Hoodies &amp; much more...",
+                "type" : "text"
+            },
+			"Link" : {
+				"title" : "Link",
+				"value" : "/shop",
+				"type" : "text"
+			}
+        },
+        "type" : "array"
+    },
+    "FeaturedCategories" : {
+        "title" : "Featured Categories",
+        "value" : [
+            {
+                "Title" : {
+                    "title" : "Title",
+                    "value" : "Man",
+                    "type" : "text"
+                },
+                "Link" : {
+                    "title" : "Link",
+                    "value" : "/shop/Apparels/man",
+                    "type" : "text"
+                },
+                "Image" : {
+                    "title" : "Image",
+                    "value" : "https://cubizyfiles.s3.ap-southeast-2.amazonaws.com/account_5/product/10/images/ezgif-2-489b7dc611.jpg",
+                    "type" : "text"
+                }
+            },
+            {
+                "Title" : {
+                    "title" : "Title",
+                    "value" : "Women",
+                    "type" : "text"
+                },
+                "Link" : {
+                    "title" : "Link",
+                    "value" : "/shop/Apparels/women",
+                    "type" : "text"
+                },
+                "Image" : {
+                    "title" : "Image",
+                    "value" : "https://cubizyfiles.s3.ap-southeast-2.amazonaws.com/account_5/product/37/images/free-short-sleeve-jkrl1-brsk-tex-original-imag3pfcuzq2mkgk.jpeg",
+                    "type" : "text"
+                }
+            }
+        ],
+        "template" : {
+            "Title" : {
+                "title" : "Title",
+                "value" : "Man",
+                "type" : "text"
+            },
+            "Link" : {
+                "title" : "Link",
+                "value" : "/Apparels/man",
+                "type" : "text"
+            },
+            "Image" : {
+                "title" : "Image",
+                "value" : "https://cubizyfiles.s3.ap-southeast-2.amazonaws.com/account_5/product/10/images/ezgif-2-489b7dc611.jpg",
+                "type" : "text"
+            }
+        },
+        "type" : "array"
+    },
+    "ShowTrending" : {
+        "title" : "Show Trending",
+        "value" : true,
+        "type" : "switch"
+    },
+    "ShowCaseCategory" : {
+        "title" : "Show Case Category",
+        "value" : {
+            "Title" : {
+                "title" : "Title",
+                "value" : "Children's Day",
+                "type" : "text"
+            },
+            "Image" : {
+                "title" : "Image",
+                "value" : "https://www.shoppingmadeasyforyou.com/wp-content/uploads/2020/09/happy-childrens-day.jpg",
+                "type" : "text"
+            },
+            "CategoryID" : {
+                "title" : "Category ID",
+                "value" : 4,
+                "type" : "number"
+            },
+            "SubcategoryID" : {
+                "title" : "Subcategory ID",
+                "value" : 7,
+                "type" : "number"
+            },
+            "ChildcategoryID" : {
+                "title" : "Childcategory ID",
+                "value" : 13,
+                "type" : "number"
+            }
+        },
+        "type" : "object"
+    },
+    "WideAdvertisingBanner" : {
+        "title" : "Wide Advertising Banner",
+        "value" : {
+            "Title" : {
+                "title" : "Title",
+                "value" : "Converse All Star on Sale",
+                "type" : "text"
+            },
+            "Subtitle" : {
+                "title" : "Description",
+                "value" : "Hurry up! Limited time offer",
+                "type" : "text"
+            },
+            "Image" : {
+                "title" : "Image",
+                "value" : "https://cartzilla.createx.studio/img/shop/catalog/banner.jpg",
+                "type" : "image"
+            },
+            "ButtonText" : {
+                "title" : "Button Text",
+                "value" : "Shop Now",
+                "type" : "text"
+            },
+            "ButtonLink" : {
+                "title" : "Button Link",
+                "value" : "#",
+                "type" : "text"
+            }
+        },
+        "type" : "object"
+    },
+    "ShortAdvertisingbanner" : {
+        "title" : "Short Advertising Banner on HomePage",
+        "value" : {
+            "Title" : {
+                "title" : "Title",
+                "value" : "Converse All Star on Sale",
+                "type" : "text"
+            },
+            "Subtitle" : {
+                "title" : "Description",
+                "value" : "Hurry up! Limited time offer",
+                "type" : "text"
+            },
+            "Image" : {
+                "title" : "Image",
+                "value" : "https://cartzilla.createx.studio/img/blog/banner-bg.jpg",
+                "type" : "image"
+            },
+            "ButtonText" : {
+                "title" : "Button Text",
+                "value" : "Shop Now",
+                "type" : "text"
+            },
+            "ButtonLink" : {
+                "title" : "Button Link",
+                "value" : "#",
+                "type" : "text"
+            }
+        },
+        "type" : "object"
+    }
+}

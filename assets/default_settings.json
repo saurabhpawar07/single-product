@@ -1,0 +1,42 @@
+{
+  "ThemeColor" : {
+    "title" : "Theme Color",
+    "value" : "#253b80",
+    "type" : "color"
+  },
+  "ThemeTextColor" : {
+    "title" : "Theme Text Color",
+    "value" : "#ffffff",
+    "type" : "color"
+  },
+  "SecondaryThemeColor" : {
+    "title" : "Secondary Theme Color",
+    "value" : "#46a5e5", 
+    "type" : "color"
+  },
+  "SecondaryThemeTextColor" : {
+    "title" : "Secondary Theme Text Color",
+    "value" : "#ffffff",
+    "type" : "color"
+  },
+  "LogoHeight" : {
+    "title" : "Logo Height",
+    "value" : "50",
+    "type" : "number"
+  },
+  "StickyHeader" : {
+    "title" : "Sticky Header",
+    "value" : true,
+    "type" : "checkbox"
+  },
+  "RepeatSearchBackgroundImage" : {
+    "title" : "Repeat Search Background Image",
+    "value" : false,
+    "type" : "checkbox"
+  },
+  "SearchBackgroundImage" : {
+    "title" : "Search Background Image",
+    "value" : "https://mystudyfiles.s3.ap-southeast-2.amazonaws.com/themes/theme_2/5c9a8123a0c90.jpg",
+    "type" : "image"
+  }
+}
